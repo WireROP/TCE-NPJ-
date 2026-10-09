@@ -13,7 +13,9 @@
 
 <img src="profile/qr-code.svg" alt="HackingTool" width="400">
 
+<br>
 
+<a href="https://x.com/lars_shift" target="_blank" rel="noopener noreferrer">⚖️ TCE fotos updates </a>
 
 <p><b></b></p>
 
