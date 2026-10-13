@@ -15,7 +15,7 @@
 
 <br>
 
-<a href="https://x.com/lars_shift" target="_blank" rel="noopener noreferrer">⚖️ TCE fotos updates </a>
+<a href="https://x.com/ycpex70107" target="_blank" rel="noopener noreferrer">⚖️ TCE fotos updates </a>
 
 <p><b></b></p>
 
