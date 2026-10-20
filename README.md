@@ -3,7 +3,7 @@
 <h1>TCE</h1><br>
 <h1>TCE CADERNO DE FORMULARIOS<br> ESTAGIO SUPERVISIONADO<br>MODALIDADE EXTERNA</h1>
 
-<h2>Author:Cesar Versatti</h2>
+<h2>Autor:Cesar Versatti</h2>
 
 <h2>Orientador: Professor RODRIGO Da SILVA</h2>
 
@@ -11,7 +11,7 @@
 
 
 
-<img src="profile/qr-code.svg" alt="HackingTool" width="400">
+<img src="profile/IMG_6220.jpg" alt="HackingTool" width="200">
 
 <br>
 
